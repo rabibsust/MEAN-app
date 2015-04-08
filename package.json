@@ -1,0 +1,31 @@
+{
+  "name": "myMEANapplication",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.12.3",
+    "gulp": "latest"
+  },
+  "description": "My first application with MEAN stack",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rabibsust/MEAN-app.git"
+  },
+  "keywords": [
+    "MEAN",
+    "MongoDB",
+    "Node.js",
+    "Angular.js",
+    "Express.js"
+  ],
+  "author": "Ahmad Jamaly Rabib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabibsust/MEAN-app/issues"
+  },
+  "homepage": "https://github.com/rabibsust/MEAN-app"
+}
